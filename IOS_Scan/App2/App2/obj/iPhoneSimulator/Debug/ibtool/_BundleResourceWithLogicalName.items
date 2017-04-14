@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Debug\ibtool-link\CreateBarCode.nib">
+      <LogicalName>CreateBarCode.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Debug\ibtool-link\CreateQC.nib">
+      <LogicalName>CreateQC.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Debug\ibtool-link\LaunchScreen.nib">
+      <LogicalName>LaunchScreen.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Debug\ibtool-link\Scan.nib">
+      <LogicalName>Scan.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Debug\ibtool-link\ScanResult.nib">
+      <LogicalName>ScanResult.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhoneSimulator\Debug\ibtool-link\ViewController1.nib">
+      <LogicalName>ViewController1.nib</LogicalName>
+      <Optimize>false</Optimize>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>
